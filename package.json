@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "mocha": "~1.9.0",
-    "grunt": "~0.4.1",
+    "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.4.3",
     "grunt-conventional-changelog": "~0.0.12",
     "marked": "~0.2.8",
